@@ -1,0 +1,29 @@
+body{
+
+  text-align: center;
+}
+.top-container{
+  background-color: skyblue;
+}
+.first-img{
+  height: 75px;
+  width: 185px;
+  position: relative;
+  left: 200px;
+
+}
+.second-img{
+  height: 75px;
+  width: 185px;
+  position: absolute;
+  bottom: 650px;
+
+}
+h1{
+  font-size: 42px;
+  font-family: 'Fredoka One', cursive;
+}
+p{
+  font-size: 26px;
+  font-family: 'Pacifico', cursive;
+}
